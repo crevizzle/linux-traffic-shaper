@@ -1,6 +1,6 @@
 # Linux Traffic Shaper
 
-Based on CentOS 7 install
+Based on a systemd distro
 
 ## test if tc is installed on your system
 
